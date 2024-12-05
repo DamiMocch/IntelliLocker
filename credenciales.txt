@@ -1,0 +1,2 @@
+ADMIN: intellilocker@gmail.com: pass: admin02
+USUARIO: cliente@gmail.com; pass : cliente2
